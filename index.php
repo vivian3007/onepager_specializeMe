@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Specialize me</title>
+    <link rel="stylesheet" type="text/css" href="style.css?v=<?= time(); ?>">
+    <link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
+</head>
+<body>
+<nav>
+    <a href='#waarom' title='waarom'>Waarom ontwerpend</a>
+    <a href='#nachtkastboek' title='nachtkastboek'>Nachtkastboek</a>
+    <a href='#terugblik' title='terugblik'>Terugblik</a>
+</nav>
+<header>
+
+</header>
+<main>
+    <section id="waarom" class="container">
+        <h1>Waarom de ontwerpende technoloog?</h1>
+        <p>
+            Een half jaar geleden moesten we allemaal een richting kiezen.
+            Ik wilde mezelf graag een beetje uitdagen.
+            Ik ben al sinds ik klein ben dol op tekenen en knutselen, maar ik weet ook dat ik ontwerpen nog wel eens lastig kan vinden, omdat ik zelf erg perfectionistisch ben.
+            Ik hou er niet zo van om snel iets op papier te krassen en doe liever alles gelijk netjes.
+            Ik denk alleen dat dit niet handig is als ontwerper, dus daarom wilde ik kijken of ik er beter in zou kunnen worden om gewoon maar iets op papier te zetten en iets te ontwerpen.
+            Ik vind het namelijk wel heel leuk om creatief bezig te zijn.
+            Ik wilde mezelf dit halfjaar vooral de ruimte geven om te leren dat fouten maken ook bij het proces hoort en dat dit ook mag.
+        </p>
+        <p>
+            Daarnaast wilde ik ook graag leren hoe je snel en efficiënt uit kan komen op een concept.
+            Ik vind het altijd heel leuk om de hele ontwerpcirkel door te lopen: zelf bedenken wat je gaat maken, dat uitwerken en dan ook zelf bouwen.
+            Dan ben ik altijd het meest trots op mijn werk.
+            Ik denk dat ik in die cirkel nog het meeste te leren had op het gebied van ontwerpen, omdat ik zelf vaak meer gefocust ben op de technische kant.
+        </p>
+        <div class="image-container">
+            <img src="includes/wireframe-reserveringssysteem.png" alt="wireframe">
+        </div>
+        <p><i>Hier is een afbeelding te zien van wat voor mij een half jaar geleden nog low fidelity aanvoelde.</i></p>
+    </section>
+    <section id="nachtkastboek" class="container">
+        <h1>Nachtkastboek</h1>
+        <p>
+            Als nachtkastboek heb ik gekozen voor ‘Creative confidence’, geschreven door Tom en David Kelley.
+            De naam spreekt al voor zich, maar dit boek gaat over hoe je je als ontwerper kan ontwikkelen als het gaat over zelfvertrouwen in je eigen creativiteit.
+            Dit past natuurlijk heel goed bij de reden dat ik voor deze richting gekozen heb, dus dit leek me een goed boek om wat uit mee te kunnen nemen.
+        </p>
+        <div class="image-container">
+            <img src="includes/creative-confidence.jpg" alt="book">
+        </div>
+        <p>
+            In het boek kwamen voor mijn gevoel minder tips en tricks voor dan ik had verwacht, dus ik was een klein beetje teleurgesteld.
+            Ik vond dat ze vooral veel over brede onderzoeken schreven en niet echt over hoe je nou wat zelfverzekerder kan worden tijdens het ontwerpen.
+        </p>
+        <p>
+            Een voorbeeld wat mij als perfectionist wel heel erg aansprak was een voorbeeld over een man die wilde leren jongleren.
+            Hij pakte 3 ballen en waar ik direct zou beginnen met opgooien en proberen, gooide hij ze eerst op de grond neer.
+            Dat deed hij zodat hij even kon wennen aan het gevoel om te falen.
+            Als je het eenmaal al een keer hebt gevoeld is het de keer daarna niet meer even vervelend, omdat je eraan went om te falen.
+            Ik vond dit zo’n slimme truc dat ik die tijdens mijn project meerdere keren heb toegepast.
+        </p>
+        <p>
+            Ik moest als ontwerpende technoloog natuurlijk aardig wat tekenen tijdens het ontwerpproces.
+            Elke keer dat ik moest tekenen heb ik een blaadje helemaal vol gekrast met mijn potlood, zodat ik niet bang was om het te verpesten.
+            Witte blaadjes schrikken mij normaal namelijk best wel af omdat de kans er dan enorm groot is dat ik een streep verkeerd zet en ik in die zin ‘heb gefaald’.
+            Dat heeft me wel heel erg geholpen met mijn creatieve zelfvertrouwen tijdens de tekenopdrachten.
+        </p>
+        <div class="image-container">
+            <img src="includes/scratch1.jpg" alt="scratch">
+        </div>
+        <p><i>Een deel van mijn verzameling gekraste blaadjes.</i></p>
+    </section>
+    <section id="terugblik" class="container">
+        <h1>Terugblik</h1>
+        <p>
+            Ik denk dat ik redelijk wat te weten ben genomen over het vakgebied nu.
+            Ik had geen idee welke banen er mogelijk waren met deze opleiding en daar heb ik nu echt wel een beter beeld van gekregen.
+            Daarnaast heb ik echt veel geleerd van het doorlopen van het hele ontwerpproces.
+            Ik weet nu hoe ik moet brainstormen en tot een concept kan komen.
+            Dat vond ik het lastigste gedeelte dus ik was blij dat ik dat nu heb geleerd.
+        </p>
+        <p>
+            Ik ben zelf heel erg gegroeid doordat ik heb geleerd om wat minder perfectionistisch te werken in het beginstadium van het ontwerpen.
+            Dit heeft me heel erg geholpen om snel creatieve ideeën te verzinnen.
+            Ik vind zelf dat ik als ontwerper een stuk beter ben geworden door alle tips uit de les.
+            Die informatie wil ik meenemen naar andere projecten in de toekomst.
+        </p>
+        <p>
+            Ik denk dat ik me van andere ontwerpende technologen kan onderscheiden doordat ik nu snel veel ideeën kan bedenken voor een concept en die dan wel netjes kan uitwerken.
+            Ik kan in het eerste deel van het ontwerpproces mijn perfectionisme uitzetten, waar ik het in het tweede deel juist goed kan gebruiken.
+            Dit is een hele handige eigenschap vind ik.
+        </p>
+        <p>
+            In de toekomst wil ik me nog verder ontwikkelen met ontwerpen door vooral deze ontwerpstappen die ik dit half jaar heb geleerd veel te oefenen.
+            Ik denk dat ik nu alle handvaten heb om het ontwerpproces soepel te laten verlopen, alleen ik kan hier nog wel beter in worden.
+            Dit is ook terug te zien in mijn STARRT-reflectie waar ik beschrijf hoe ik wil verbeteren tijdens het bedenken van concepten.
+        </p>
+        <p>
+            Ik vond het wel heel leuk om de ontwerpende technoloog te zijn, omdat ik het heel leuk vind om creatief bezig te zijn.
+            Ik zou me hier graag nog verder in willen ontwikkelen, dus als ik de mogelijkheid krijg zal ik later in een project zeker nog een keer de ontwerpende rol op me nemen.
+        </p>
+        <div class="image-container">
+            <img src="includes/storyboard.jpg" alt="storyboard">
+            <img src="includes/sketchboarding.jpeg" alt="sketchboarding">
+        </div>
+        <p><i>Hier zijn wat voorbeelden van hoe ik deze keer het ontwerpen heb aangepakt in low fidelity.</i></p>
+    </section>
+</main>
+<footer>
+    Made by: Vivian Vlaanderen
+</footer>
+</body>
+</html>
